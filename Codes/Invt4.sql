@@ -1,0 +1,1 @@
+select * from meds_stock where price between 120 and 200;

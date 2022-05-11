@@ -1,0 +1,1 @@
+select med_name,price from meds_stock where price >100;
